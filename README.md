@@ -21,7 +21,7 @@ I am passionate about software development in Python, Typescript and c#
 
 - 🔭 I’m currently working on [MiDespacho](https://midespacho.cloud/)
 - 🌱 I’m currently learning NestJS and Angular
-- - 📫 How to reach me: serranowilliamj@gmail.com
+- 📫 How to reach me: serranowilliamj@gmail.com
 
 ###  Habilidades
 
